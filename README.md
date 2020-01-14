@@ -1,7 +1,6 @@
 [![Version](https://img.shields.io/badge/version-0.0.1-green.svg?style=for-the-badge)](#)
 [![mantained](https://img.shields.io/maintenance/yes/2020.svg?style=for-the-badge)](#)
 [![maintainer](https://img.shields.io/badge/maintainer-%20%40bzzoiro-blue.svg?style=for-the-badge)](#)
-[![Community Forum](https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge)](https://community.home-assistant.io/t/e-thermostaat-icy/493?u=gerard33)
 
 ### This component only works on HA 0.96 and later.
 
