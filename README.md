@@ -9,7 +9,7 @@
 A platform which allows you to interact with the Delta Dore Thermostast.
 
 ## Installation
-You can use HACS or install the component manually by putting the files from `/custom_components/tydom_climate/` in your folder `<config directory>/custom_components/tydom_climate/` 
+Install the component manually by putting the files from `/custom_components/tydom_climate/` in your folder `<config directory>/custom_components/tydom_climate/` 
 
 ## Screenshot
 Tydom Climate
